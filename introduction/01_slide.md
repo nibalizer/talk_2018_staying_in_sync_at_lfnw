@@ -1,6 +1,11 @@
 !SLIDE[bg=_images/backgrounds/white_bg.png]
 
-## My Presentation
+# Who am I
 
-.white Get hype my dudes
-
+* Spencer Krum
+* @nibalizer
+* IBM
+* Developer Advocate
+* Oregon Native
+* Recently moved to MSP
+* Ops background
